@@ -1,3 +1,3 @@
 puts "layaly"
 puts "layaly" .upcase
-puts "layaly" .downcase
+puts "LAYALY" .downcase
