@@ -1,4 +1,4 @@
 puts "layaly"
 puts "layaly" .upcase
 puts "LAYALY" .downcase
-puts "i love kwk" .capitalize
+puts "i love kwk" .upcase.length
